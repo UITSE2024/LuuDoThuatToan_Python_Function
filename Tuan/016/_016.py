@@ -1,5 +1,3 @@
-from re import X
-
 
 def Nhap():
     xx = int(input("Nhap x = "))
