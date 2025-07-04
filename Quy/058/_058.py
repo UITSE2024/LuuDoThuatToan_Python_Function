@@ -1,6 +1,6 @@
-def TongChuSo(n):
+def TongChuSo(nn):
     s = 0
-    t = n
+    t = nn
     while (t != 0):
         dv = t % 10
         s = s + dv

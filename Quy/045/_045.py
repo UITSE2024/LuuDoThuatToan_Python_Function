@@ -1,7 +1,7 @@
-def Tong(n):
+def Tong(nn):
     s = 0
     i = 1
-    while (i <= n):
+    while (i <= nn):
         s = s + 1 / (i ** (1 / 2) + (i + 1) ** (1 / 2))
         i = i + 1
     return s
