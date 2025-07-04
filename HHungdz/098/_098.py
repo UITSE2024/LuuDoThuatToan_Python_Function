@@ -1,11 +1,9 @@
-from math import sqrt
+
 
 def tinhBieuThuc(nn):
     s = 0
-    m = 0
-    for i in range(1, nn + 1):
-        m += i
-        s += 1/m
+    for i in range(2, nn + 1):
+        s  = (i + s) ** (1/i)
 
     return s
 
@@ -17,5 +15,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
