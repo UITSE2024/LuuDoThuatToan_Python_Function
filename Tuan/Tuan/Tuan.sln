@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tuan", "Tuan.pyproj", "{EE4
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "003", "..\003\003.pyproj", "{14C65BC6-B117-4F77-B244-5D86A5B5B2F4}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "016", "..\016\016.pyproj", "{B22E9825-2917-4DE8-BDAE-5BBF660D29B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{EE4B4511-D382-45BC-B012-B011B2DFA706}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14C65BC6-B117-4F77-B244-5D86A5B5B2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{14C65BC6-B117-4F77-B244-5D86A5B5B2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22E9825-2917-4DE8-BDAE-5BBF660D29B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22E9825-2917-4DE8-BDAE-5BBF660D29B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
