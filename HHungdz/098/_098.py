@@ -1,5 +1,3 @@
-
-
 def tinhBieuThuc(nn):
     s = 0
     for i in range(2, nn + 1):

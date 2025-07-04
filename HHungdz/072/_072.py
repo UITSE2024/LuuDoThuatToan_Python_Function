@@ -1,4 +1,3 @@
-from math import sqrt
 
 def tinhBieuThuc(nn):
     s = 0
