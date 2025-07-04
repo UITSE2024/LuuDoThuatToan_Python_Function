@@ -8,7 +8,7 @@ def SoHangTram(nn):
     return ht
 
 def main():
-    n = Nhap()
+    n = int(input("Nhap n: "))
     print("Chu so hang tram: ", SoHangTram(n))
 
 if __name__ == "__main__":
