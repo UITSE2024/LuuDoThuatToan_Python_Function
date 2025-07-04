@@ -3,7 +3,7 @@ def Nhap():
     n = int(input("Nhap n: "))
     return n
 
-def Tinh(n):
+def Tinh(nn):
     s = 0
     i = 1
     while(i<=n):
