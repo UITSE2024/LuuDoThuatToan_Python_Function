@@ -25,7 +25,7 @@ def main():
     a=Khoangcach(x2,y2,x3,y3)
     b=Khoangcach(x1,y1,x3,y3)
     c=Khoangcach(x1,y1,x2,y2)
-    print("Chu vi: ", Chuvi(a,b,c))
+    print("Chu vi la: ", Chuvi(a,b,c))
 
 if __name__=="__main__":
     main()
