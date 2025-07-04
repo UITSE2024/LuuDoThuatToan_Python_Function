@@ -14,7 +14,7 @@ def Tinh(xx):
 
 def main():
     x = Nhap()
-    Tinh(x)
+    print("Ket qua: ", Tinh(x))
 
 if __name__ == "__main__":
     main()
