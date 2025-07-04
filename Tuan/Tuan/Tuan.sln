@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tuan", "Tuan.pyproj", "{EE4B4511-D382-45BC-B012-B011B2DFA706}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "003", "..\003\003.pyproj", "{14C65BC6-B117-4F77-B244-5D86A5B5B2F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE4B4511-D382-45BC-B012-B011B2DFA706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4B4511-D382-45BC-B012-B011B2DFA706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C65BC6-B117-4F77-B244-5D86A5B5B2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C65BC6-B117-4F77-B244-5D86A5B5B2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C852431E-3E87-4BAA-95E2-D1D4C0F65375}
+	EndGlobalSection
+EndGlobal
