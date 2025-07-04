@@ -5,7 +5,7 @@ def Nhap():
 def Tinh(nn):
     s = 0
     i = 0 
-    while i <= n:
+    while i <= nn:
         s = s + 1 / (i * (i + 1))
         i = i + 1
     return s
