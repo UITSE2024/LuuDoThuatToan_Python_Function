@@ -5,7 +5,7 @@ def Nhap():
     yy=int(input("Nhap tung do: "))
     return xx, yy
 
-def Xuat():
+def Xuat(xx,yy):
     print("Hoanh do:", xx)
     print("Tung do:", yy)
 
