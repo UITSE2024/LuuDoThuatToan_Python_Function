@@ -4,7 +4,16 @@
 - Để tránh conflicts thì mình sẽ làm theo một cách là mỗi một người sẽ tự tạo cho mình 1 branch, và trong branch đó mọi người tạo một folder có tên là tên của mình. Trong folder này mình tạo Solution rồi hoàn thành assignment.
 
 - Đặt tên bài làm theo số (vd 001, 002,..., 153)
-  
+
+- Vì cài bằng Python, cần tải Python lên Visual Studio. Có thể tham khảo các bước sau (từ ChatGPT)
+    1. Open Visual Studio Installer.
+
+    2. Click Modify on your Visual Studio installation.
+
+    3. Check Python development workload.
+
+    4. Click Modify to install.
+    
 - Các bước làm bài và push từ local lên remote
     + Clone repository về local: Khi mở Visual Studio, trong main menu, chọn clone repository theo link sau https://github.com/UITSE2024/LuuDoThuatToan_Python_Function/
     
