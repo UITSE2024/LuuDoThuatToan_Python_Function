@@ -8,7 +8,7 @@ def KiemTraToanLe(nn: int) -> bool:
         dv = t % 10
         if dv % 2 == 0:
             flag = 0
-        t = t / 10
+        t = t // 10
 
     if flag == 1:
         return True
