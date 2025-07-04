@@ -1,14 +1,14 @@
 def Nhap():
-    x = int(input("Nhap x: "))
-    return x
+    xx = int(input("Nhap x: "))
+    return xx
 
-def tinhX15(x):
-    x2 = x * x
-    x4 = x2 * x2
-    x8 = x4 * x4
-    x16 = x8 * x8
-    x15 = x16 // x  
-    return x15
+def tinhX15(xx):
+    xx2 = xx * xx
+    xx4 = xx2 * xx2
+    xx8 = xx4 * xx4
+    xx16 = xx8 * xx8
+    xx15 = xx16 // xx  
+    return xx15
 
 def main():
     x = Nhap()
